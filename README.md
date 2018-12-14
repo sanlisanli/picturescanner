@@ -11,11 +11,11 @@
 截图  
   
    
-<img src="https://github.com/sanlisanlisanli/picturescanner/blob/master/images/01.png" width="260" height="480"/>   
+<img src="https://github.com/sanlisanli/picturescanner/blob/master/images/01.png" width="260" height="480"/>   
    
      
      
-<img src="https://github.com/sanlisanlisanli/picturescanner/blob/master/images/02.png" width="260" height="480"/>  
+<img src="https://github.com/sanlisanli/picturescanner/blob/master/images/02.png" width="260" height="480"/>  
   
     
    
